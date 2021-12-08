@@ -2,7 +2,7 @@
 
 I'm building awesome open-source tools for SAP customers, partners, and developers.
 
-Solopreneur, Indie Coder, Digital Nomad
+Solopreneur, Indie Hacker, Digital Nomad
 
 Love SAP BW, SAP BW/4HANA and abapGit
 
