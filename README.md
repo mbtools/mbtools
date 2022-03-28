@@ -36,7 +36,7 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 [Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/category/analysis)" and "[GitHub Check Runs](https://shields.io/category/build)"
 
-[TODO to Issue Action](https://github.com/mbtools/todo-to-issue-action) - Added support for ABAP
+[TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) - Added support for ABAP
 
 [Exercism](https://github.com/exercism/abap) - One of the initial creators of the ABAP Track and contributor of several exercises
 
