@@ -30,15 +30,15 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 [ajson](https://github.com/sbcgua/ajson) - Diff and sort utilities
 
-[mime_editor](https://github.com/larshp/mime_editor) - Add editor for W3MI objects
+[mime_editor](https://github.com/larshp/mime_editor) - Added editor for W3MI objects
 
 [Monaco](https://github.com/microsoft/monaco-languages) - Update to ABAP 7.5x language syntax
 
-[Shields](https://github.com/badges/shields) - Added badge for "[ClearlyDefined Score](https://clearlydefined.io/)"
+[Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/category/analysis)" and "[GitHub Check Runs](https://shields.io/category/build)"
 
 [TODO to Issue Action](https://github.com/mbtools/todo-to-issue-action) - Added support for ABAP
 
-[Exercism](https://github.com/mbtools/abap) - Some exercises for ABAP Track
+[Exercism](https://github.com/exercism/abap) - One of the initial creators of the ABAP Track and contributor of several exercises
 
 
 
