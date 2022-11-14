@@ -42,3 +42,4 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 [Verdaccio](https://github.com/verdaccio/verdaccio) - Improving the UI theme
 
+[SPDX](https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
