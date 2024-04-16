@@ -2,7 +2,7 @@
 
 I'm building awesome open-source tools for SAP customers, partners, and developers.
 
-Solopreneur, Indie Hacker, Digital Slowmad
+Solopreneur, Indie Hacker, Digital Nomad
 
 Love SAP BW, SAP BW/4HANA and abapGit
 
@@ -40,6 +40,9 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 [Exercism](https://github.com/exercism/abap) - One of the initial creators of the ABAP Track and contributor of several exercises
 
-[Verdaccio](https://github.com/verdaccio/verdaccio) - Improving the UI theme
+[Verdaccio](https://github.com/verdaccio/verdaccio) - Improving the UI theme, docs, and more
 
 [SPDX](https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
+
+[npm semver](https://github.com/npm/node-semve) - Improving docs, fixing bugs, replacing dependencies
+
