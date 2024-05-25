@@ -34,7 +34,7 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 [Monaco](https://github.com/microsoft/monaco-editor) - Update to ABAP 7.5x language syntax (latest 7.55)
 
-[Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/category/analysis)" and "[GitHub Check Runs](https://shields.io/category/build)"
+[Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/badges/clearly-defined-score)" and "[GitHub Check Runs](https://shields.io/badges)"
 
 [TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) - Added support for ABAP
 
