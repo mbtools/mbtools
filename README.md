@@ -17,7 +17,7 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 ### Stats
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=mbtools&show_icons=true&theme=great-gatsby)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=mbtools&show_icons=true&theme=great-gatsby)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbtools&layout=compact&theme=great-gatsby)
 
@@ -44,5 +44,5 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 [SPDX](https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
 
-[npm semver](https://github.com/npm/node-semve) - Improving docs, fixing bugs, replacing dependencies
+[npm](https://github.com/npm) - Improving docs, fixing bugs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver))
 
