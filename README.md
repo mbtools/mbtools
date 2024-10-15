@@ -38,11 +38,11 @@ Love SAP BW, SAP BW/4HANA and abapGit
 
 [TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) - Added support for ABAP
 
-[Exercism](https://github.com/exercism/abap) - One of the initial creators of the ABAP Track and contributor of several exercises
+[Exercism](https://github.com/exercism/abap) - One of the initial creators of the ABAP Track and contributor to several exercises
 
 [Verdaccio](https://github.com/verdaccio/verdaccio) - Improving the UI theme, docs, and more
 
 [SPDX](https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
 
-[npm](https://github.com/npm) - Improving docs, fixing bugs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver))
+[npm](https://github.com/npm) - Improving docs, fixing bugs, replacing dependencies, enhancing logs ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote), [npm-registry-fetch](https://github.com/npm/npm-registry-fetch))
 
