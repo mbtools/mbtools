@@ -9,7 +9,6 @@ jobs:
     steps:
     - name: Restore
       run: |
-        ls -l /
-        ls -l /home
-        ls -l /tmp
+        ls -l /opt
+        ls -l /usr
         
