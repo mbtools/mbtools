@@ -6,20 +6,20 @@ Solopreneur, Indie Hacker, Digital Nomad
 
 Love SAP ABAP, BW, BW/4HANA, and abapGit
 
-### Bootstrapping 💥 apm - A Package Manager for ABAP 💥
+💥 apm - A Package Manager for ABAP 💥
 
 👉 [abappm.com](https://abappm.com)
 
-### Bootstrapping 💥 Marc Bernard Tools 💥
+💥 Marc Bernard Tools 💥
 
 👉 [marcbernardtools.com](https://marcbernardtools.com)
 
-Stats
-
-[![Marc's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mbtools&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/mbtools/github-readme-stats#gh-dark-mode-only)
-[![Marc's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mbtools&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mbtools/github-readme-stats#gh-light-mode-only)
-
-Top Langs
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mbtools&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbtools&layout=compact&langs_count=8&card_width=320&theme=merko" />
+</a>
 
 ### Other Open-Source Contributions
 
