@@ -9,6 +9,6 @@ jobs:
     steps:
     - name: Restore
       run: |
-        ls -l /opt
-        ls -l /usr
+        ls -l /opt/actionarchivecache
+        ls -l /opt/hostedtoolcache
         
