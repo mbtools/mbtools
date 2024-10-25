@@ -9,4 +9,4 @@ jobs:
     steps:
     - name: Restore
       run: |
-        git push --force origin 4b0e0595fd7df151e35c70fb6b891710b916aa6e:main
+        tree -s /home/runner
