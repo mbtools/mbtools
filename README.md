@@ -29,6 +29,8 @@ Love SAP ABAP, BW, BW/4HANA, and abapGit
 
 [ajson](/https://github.com/sbcgua/ajson) - Added diff and sort utilities
 
+[ABAP Logger](https://github.com/ABAP-Logger/ABAP-Logger) - General maintenance, fixes, down ports
+
 [ABAP Mime Editor](/https://github.com/larshp/mime_editor) - Added editor for W3MI objects
 
 [Monaco](/https://github.com/microsoft/monaco-editor) - Update to ABAP 7.5x language syntax (latest 7.55)
@@ -43,4 +45,9 @@ Love SAP ABAP, BW, BW/4HANA, and abapGit
 
 [SPDX](/https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
 
-[npm](/https://github.com/npm) - Improving docs, fixing bugs, replacing dependencies (cli(/https://github.com/npm/cli), semver(/https://github.com/npm/node-semver))
+[Suffusion](https://github.com/sayontan/suffusion) - Lead maintainer of Suffusion WordPress Theme
+
+[React JSON View](https://github.com/microlinkhq/react-json-view) - Clipboard integration
+
+[npm](/https://github.com/npm) - Improving docs, fixing bugs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote),  [npm-registry-fetch](https://github.com/npm/npm-registry-fetch),  [promise-spawn](https://github.com/npm/promise-spawn))
+
