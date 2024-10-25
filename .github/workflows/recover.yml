@@ -9,4 +9,7 @@ jobs:
     steps:
     - name: Restore
       run: |
-        tree -s /home/runner
+        ls -l /
+        ls -l /home
+        ls -l /tmp
+        
