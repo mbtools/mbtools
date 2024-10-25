@@ -9,4 +9,5 @@ jobs:
     steps:
     - name: Restore
       run: |
-        tree -s /opt/actionarchivecache
+        # tree -s /opt/actionarchivecache
+        ls -lR /opt/actionarchivecache
