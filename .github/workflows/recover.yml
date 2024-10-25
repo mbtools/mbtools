@@ -1,0 +1,17 @@
+name: recover
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+    - name: Upload runner
+      uses: actions/upload-artifact@v2
+      with:
+        name: runner
+        path: /home/runner/work/mbtools/mbools/*.*
+        retention-days: 5
