@@ -23,31 +23,31 @@ Love SAP ABAP, BW, BW/4HANA, and abapGit
 
 ### Other Open-Source Contributions
 
-[abapGit](/https://abapgit.org/) - Too many to count
+[abapGit](https://abapgit.org/) - Too many to count
 
-[abaplint](/https://abaplint.org/) - Some little additions and improvements
+[abaplint](https://abaplint.org/) - Some little additions and improvements
 
-[ajson](/https://github.com/sbcgua/ajson) - Added diff and sort utilities
+[ajson](https://github.com/sbcgua/ajson) - Added diff and sort utilities
 
 [ABAP Logger](https://github.com/ABAP-Logger/ABAP-Logger) - General maintenance, fixes, down ports
 
-[ABAP Mime Editor](/https://github.com/larshp/mime_editor) - Added editor for W3MI objects
+[ABAP Mime Editor](https://github.com/larshp/mime_editor) - Added editor for W3MI objects
 
-[Monaco](/https://github.com/microsoft/monaco-editor) - Update to ABAP 7.5x language syntax (latest 7.55)
+[Monaco](https://github.com/microsoft/monaco-editor) - Update to ABAP 7.5x language syntax (latest 7.55)
 
-[Shields](/https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](/https://shields.io/badges/clearly-defined-score)" and "[GitHub Check Runs](/https://shields.io/badges)"
+[Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/badges/clearly-defined-score)" and "[GitHub Check Runs](https://shields.io/badges)"
 
-[TODO to Issue Action](/https://github.com/alstr/todo-to-issue-action) - Added support for ABAP
+[TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) - Added support for ABAP
 
-[Exercism](/https://github.com/exercism/abap) - One of the initial creators of the ABAP Track and contributor to several exercises
+[Exercism](https://github.com/exercism/abap) - One of the initial creators of the ABAP Track and contributor to several exercises
 
-[Verdaccio](/https://github.com/verdaccio/verdaccio) - Improving the UI theme, docs, and more
+[Verdaccio](https://github.com/verdaccio/verdaccio) - Improving the UI theme, docs, and more
 
-[SPDX](/https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
+[SPDX](https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
 
 [Suffusion](https://github.com/sayontan/suffusion) - Lead maintainer of Suffusion WordPress Theme
 
 [React JSON View](https://github.com/microlinkhq/react-json-view) - Clipboard integration
 
-[npm](/https://github.com/npm) - Improving docs, fixing bugs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote),  [npm-registry-fetch](https://github.com/npm/npm-registry-fetch),  [promise-spawn](https://github.com/npm/promise-spawn))
+[npm](https://github.com/npm) - Improving docs, fixing bugs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote),  [npm-registry-fetch](https://github.com/npm/npm-registry-fetch),  [promise-spawn](https://github.com/npm/promise-spawn))
 
