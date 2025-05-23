@@ -1,10 +1,12 @@
 # Hi, there! It's Marc Bernard 🚀
 
-I build awesome open-source tools for SAP customers, partners, and developers.
+I bring open-source to the world of ABAP. 
 
-Solopreneur, Indie Hacker, Digital Nomad
+If you like my work, please consider a regular donation through [GitHub Sponsors](https://github.com/sponsors/mbtools).
 
-Love SAP ABAP, BW, BW/4HANA, and abapGit
+Thank you, so much 🙏
+
+### My Projects
 
 💥 apm - A Package Manager for ABAP 💥
 
@@ -13,6 +15,8 @@ Love SAP ABAP, BW, BW/4HANA, and abapGit
 💥 Marc Bernard Tools 💥
 
 👉 [marcbernardtools.com](https://marcbernardtools.com)
+
+### Busy Times
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mbtools&theme=great-gatsby" />
