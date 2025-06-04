@@ -16,11 +16,15 @@ Marc
 
 [![apm_banner_long](https://github.com/user-attachments/assets/504e3040-5d20-42c0-876f-7027e3fb57ae)](https://abappm.com)
 
+apm: [GitHub](https://github.com/abapPM), [Website](https://abappm.com), [Registry](https://registry.abapp.com)
+
 <hr>
 
 <!-- Marc Bernard Tools - Pain Killers 💊, Time Savers ⌛️, and Power Tools 🚀 for SAP® Basis, BW, and BW/4HANA, 👉 https://marcbernardtools.com -->
 
 [![MBT_Banner_long](https://github.com/user-attachments/assets/326ab366-ecf3-4406-ac7d-d4fd7a761945)](https://marcbernardtools.com)
+
+Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](https://marcbernardtools.com)
 
 <hr>
 
