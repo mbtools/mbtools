@@ -34,7 +34,7 @@ Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](h
 
 - [abaplint](https://abaplint.org/) - Some little additions and improvements
 
-- [ajson](https://github.com/sbcgua/ajson) - Added diff and sort utilities
+- [ajson](https://github.com/sbcgua/ajson) - Added diff, sort utilities, and support for data references
 
 - [ABAP Logger](https://github.com/ABAP-Logger/ABAP-Logger) - General maintenance, fixes, down ports
 
@@ -61,6 +61,8 @@ Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](h
 - [SPDX](https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
 
 - [Suffusion](https://github.com/sayontan/suffusion) - Lead maintainer of Suffusion WordPress Theme
+
+- Bug fixing: [validator](https://github.com/validatorjs/validator.js), [codemod](https://github.com/expressjs/codemod), [PURL spec](https://github.com/package-url/purl-spec)
 
 <hr>
 
