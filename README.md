@@ -16,7 +16,7 @@ Marc
 
 [![apm_banner_long](https://github.com/user-attachments/assets/504e3040-5d20-42c0-876f-7027e3fb57ae)](https://abappm.com)
 
-apm: [GitHub](https://github.com/abapPM), [Website](https://abappm.com), [Registry](https://registry.abapp.com)
+apm: [GitHub](https://github.com/abapPM), [Website](https://abappm.com), [Registry](https://registry.abappm.com)
 
 <hr>
 
