@@ -52,7 +52,7 @@ Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](h
 
 - [Verdaccio](https://github.com/verdaccio/verdaccio) - One of the core maintainers with 160+ commits
 
-- [npm](https://github.com/npm) - Fixing bugs, improving docs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote),  [npm-registry-fetch](https://github.com/npm/npm-registry-fetch),  [promise-spawn](https://github.com/npm/promise-spawn))
+- [npm](https://github.com/npm) - Fixing bugs, improving docs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote), [npm-registry-fetch](https://github.com/npm/npm-registry-fetch), [proc-log](https://github.com/npm/proc-log), [promise-spawn](https://github.com/npm/promise-spawn))
 
 - [Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/badges/clearly-defined-score)" and "[GitHub Check Runs](https://shields.io/badges)"
 
