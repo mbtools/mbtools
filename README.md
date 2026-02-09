@@ -8,23 +8,21 @@ Thank you, so much 🙏
 
 Marc
 
+Head over to https://github.com/mbtools for my contributions to other open-source projects
+
 ### My Open-Source Projects
 
 <hr>
 
 <!-- apm - A Package Manager 📦, a Website 🌐, and a Registry 📑 for ABAP, 👉 https://abappm.com -->
 
-[![apm_banner_long](https://github.com/user-attachments/assets/504e3040-5d20-42c0-876f-7027e3fb57ae)](https://abappm.com)
-
-apm: [GitHub](https://github.com/abapPM), [Website](https://abappm.com), [Registry](https://registry.abappm.com)
+[![apm banner](./assets/apm_banner_long.png)](https://abappm.com)
 
 <hr>
 
 <!-- Marc Bernard Tools - Pain Killers 💊, Time Savers ⌛️, and Power Tools 🚀 for SAP® Basis, BW, and BW/4HANA, 👉 https://marcbernardtools.com -->
 
-[![MBT_Banner_long](https://github.com/user-attachments/assets/326ab366-ecf3-4406-ac7d-d4fd7a761945)](https://marcbernardtools.com)
-
-Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](https://marcbernardtools.com)
+[![MBT Banner](./assets/mbt_banner_long.png)](https://marcbernardtools.com)
 
 <hr>
 
@@ -34,7 +32,7 @@ Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](h
 
 - [abaplint](https://abaplint.org/) - Some little additions and improvements
 
-- [ajson](https://github.com/sbcgua/ajson) - Added diff, sort utilities, and support for data references
+- [ajson](https://github.com/sbcgua/ajson) - Added diff and sort utilities
 
 - [ABAP Logger](https://github.com/ABAP-Logger/ABAP-Logger) - General maintenance, fixes, down ports
 
@@ -52,7 +50,7 @@ Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](h
 
 - [Verdaccio](https://github.com/verdaccio/verdaccio) - One of the core maintainers with 160+ commits
 
-- [npm](https://github.com/npm) - Fixing bugs, improving docs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote), [npm-registry-fetch](https://github.com/npm/npm-registry-fetch), [proc-log](https://github.com/npm/proc-log), [promise-spawn](https://github.com/npm/promise-spawn))
+- [npm](https://github.com/npm) - Fixing bugs, improving docs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote),  [npm-registry-fetch](https://github.com/npm/npm-registry-fetch),  [promise-spawn](https://github.com/npm/promise-spawn))
 
 - [Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/badges/clearly-defined-score)" and "[GitHub Check Runs](https://shields.io/badges)"
 
@@ -62,20 +60,15 @@ Marc Bernard Tools: [GitHub](https://github.com/Marc-Bernard-Tools), [Website](h
 
 - [Suffusion](https://github.com/sayontan/suffusion) - Lead maintainer of Suffusion WordPress Theme
 
-- Bug fixing: [validator](https://github.com/validatorjs/validator.js), [codemod](https://github.com/expressjs/codemod), [PURL spec](https://github.com/package-url/purl-spec)
+<hr>
+
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mbtools&theme=great-gatsby" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbtools&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
-</a>
-
-<hr>
-
-[![sponsor-me](https://github.com/user-attachments/assets/673e4294-4a8b-43cb-9943-4246b26d93c1)](https://github.com/sponsors/mbtools)
+[![sponsor-me](./assets/sponsor_me.png)](https://github.com/sponsors/mbtools)
 
 <hr>
 
