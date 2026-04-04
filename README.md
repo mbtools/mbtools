@@ -38,7 +38,7 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 
 - [ABAP Mime Editor](https://github.com/larshp/mime_editor) - Added editor for W3MI objects
 
-- [Monaco](https://github.com/microsoft/monaco-editor) - Update to ABAP 7.5x language syntax (latest 7.55)
+- [Monaco](https://github.com/microsoft/monaco-editor) - Update to ABAP 7.5x language syntax
 
 - [TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) - Added support for ABAP
 
@@ -48,9 +48,9 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 
 ### Other Open-Source Contributions
 
-- [Verdaccio](https://github.com/verdaccio/verdaccio) - One of the core maintainers with 160+ commits
+- [Verdaccio](https://github.com/verdaccio/verdaccio) - One of the core maintainers with over 250 commits
 
-- [npm](https://github.com/npm) - Fixing bugs, improving docs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote),  [npm-registry-fetch](https://github.com/npm/npm-registry-fetch),  [promise-spawn](https://github.com/npm/promise-spawn))
+- [npm](https://github.com/npm) - Fixing bugs, improving docs, replacing dependencies ([cli](https://github.com/npm/cli), [semver](https://github.com/npm/node-semver), [pacote](https://github.com/npm/pacote), [npm-registry-fetch](https://github.com/npm/npm-registry-fetch), [promise-spawn](https://github.com/npm/promise-spawn), [proc-log](https://github.com/npm/proc-log))
 
 - [Shields](https://github.com/badges/shields) - Added badges for "[ClearlyDefined Score](https://shields.io/badges/clearly-defined-score)" and "[GitHub Check Runs](https://shields.io/badges)"
 
