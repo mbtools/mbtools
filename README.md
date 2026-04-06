@@ -46,6 +46,12 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 
 <hr>
 
+<!-- abapGit - A git client for ABAP developed in ABAP -->
+
+[![abapGit banner](./assets/abapgit_banner.png)](https://abapgit.org)
+
+<hr>
+
 ### Other Open-Source Contributions
 
 - [Verdaccio](https://github.com/verdaccio/verdaccio) - One of the core maintainers with over 250 commits
@@ -59,6 +65,12 @@ Head over to https://github.com/mbtools for my contributions to other open-sourc
 - [SPDX](https://github.com/spdx/license-list-XML) - Improving notes about GPL licenses
 
 - [Suffusion](https://github.com/sayontan/suffusion) - Lead maintainer of Suffusion WordPress Theme
+
+<hr>
+
+<!-- Verdaccio - A lightweight Node.js private proxy registry -->
+
+[![Verdaccio banner](./assets/verdaccio_banner.png)](https://verdaccio.org)
 
 <hr>
 
