@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marc Bernard's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 1058, Total PRs: 2447, Total Issues: 575, Contributed to (last year): 166</desc>
+        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 1039, Total PRs: 2458, Total Issues: 575, Contributed to (last year): 165</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.52404957025563;
+        stroke-dashoffset: 59.634731572034845;
       }
     }
   
@@ -169,7 +169,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >1.1k</text>
+      >1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -180,7 +180,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >2.4k</text>
+      >2.5k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="contribs"
-      >166</text>
+      >165</text>
     </g>
   </g>
     </svg>
